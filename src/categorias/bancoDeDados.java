@@ -7,20 +7,16 @@ public class bancoDeDados {
             "Produtos de Limpeza",
             "Higiene Pessoal",
             "Bebidas",
-            "Frios",
-            "camisinha",
-            "Album"
+            "Frios"
     };
 
     private final String[][] Produtos = {
-            {"Feijão", "Arroz", "Macarão"},
-            {"Maça", "Morango", "Laranja"},
-            {"Água sanitaria", "Detergente", "Amaciante"},
+            {"Feijão", "Arroz", "Macarrão"},
+            {"Maçã", "Morango", "Laranja"},
+            {"Água sanitária", "Detergente", "Amaciante"},
             {"Sabonete"},
             {"Coca-Cola"},
-            {"Queijo"},
-            {"Jontex", "Prudence,", "Olla", "Blowtex", "Se liga", "Durex"},
-            {"Construção - chico buarque"}
+            {"Queijo"}
     };
 
     public String[] getCategorias() {
@@ -30,5 +26,4 @@ public class bancoDeDados {
     public String[][] getProdutos() {
         return Produtos.clone();
     }
-
 }
