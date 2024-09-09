@@ -34,11 +34,3 @@ Este projeto é um sistema de mercado digital, desenvolvido em Java, que permite
 
 ### Funcionalidades em Desenvolvimento:
 - Desenvolvimento do sistema de carrinho.
-"""
-
-# Save the content to a readme.md file
-file_path = '/mnt/data/readme.md'
-with open(file_path, 'w') as file:
-    file.write(readme_content)
-
-file_path
