@@ -1,5 +1,3 @@
-# Create the content for the README.md file
-readme_content = """
 # Sistema de Mercado em Java - Gerenciamento de Compras e Carrinho
 
 Este projeto é um sistema de mercado digital, desenvolvido em Java, que permite aos usuários navegar entre seções, adicionar produtos ao carrinho e realizar compras. O sistema também oferece funcionalidades de administração de mercado e gerenciamento de saldo do cliente.
